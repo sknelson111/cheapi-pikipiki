@@ -1,2 +1,2 @@
 # cheapi-pikipiki
-website for cheap motorbike rentals in Jambiani
+website for cheap motorbike rentals in Jambiani, Zanzibar
