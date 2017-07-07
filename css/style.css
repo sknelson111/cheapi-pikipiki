@@ -16,7 +16,6 @@ body {
     text-align: center;
     } 
 
-
 hr {
   border-top: 3px solid; 
   border-color: #333333;
@@ -26,7 +25,6 @@ hr.style2{
   border-top: 15px double;
   border-color: #333333;
 }
-
 
 ul {
   display: block;
@@ -61,7 +59,7 @@ a:link {
   color: #2ac32a;
   text-decoration: none;
   font-family: Pacifico;
-  font-size: 1.5em;
+  font-size: 2em;
   }
 
 a:visited {
@@ -81,6 +79,7 @@ h1.style2{
 }
 h1.style3{
   text-align: left;
+  font-size: 1.25em;
 }
 h1.style4{
   font-size: 1.5em;
